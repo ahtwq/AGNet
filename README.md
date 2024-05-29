@@ -75,6 +75,7 @@ For medssidor dataset, the results are the mean values of 10-fold cross-validati
 |  ![idrid_1](support/idrid_1.png)  |
 | :---: |
 | Single grading on the IDRiD dataset |
+|  ![idrid_1](support/idrid_1.png)  |
 
 
 
