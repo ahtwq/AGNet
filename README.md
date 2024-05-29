@@ -72,7 +72,6 @@ For medssidor dataset, the results are the mean values of 10-fold cross-validati
 
 - joint task
 
-
 | ![idrid_2](support/idrid_2.png)  |
 | :-------------------------------: |
 | Joint grading on the IDRiD dataset |
