@@ -72,7 +72,6 @@ python train_cls.py -h
 | Joint grading on the IDRiD dataset |
 
 
-
 ## Citing AGNet
 
 If you find this repository useful for your research, please consider citing the paper (waiting for review results).
