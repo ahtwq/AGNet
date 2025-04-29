@@ -67,10 +67,10 @@ python train_cls.py -h
 
 
 - joint task
-
 | ![idrid_2](support/idrid_2.png) |
 | :-------------------------------: |
 | Joint grading on the IDRiD dataset |
+
 
 
 ## Citing AGNet
