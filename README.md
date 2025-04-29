@@ -61,13 +61,13 @@ python train_cls.py -h
 
 - single task
 
-| ![idrid_1](\support/idrid_1.png)  |
+| ![idrid_1](support/idrid_1.png)  |
 | :-------------------------------: |
 | Single grading on the IDRiD dataset |
 
 
 - joint task
-| ![idrid_1](\support/idrid_2.png)  |
+| ![idrid_2](support/idrid_2.png) |
 | :-------------------------------: |
 | Joint grading on the IDRiD dataset |
 
